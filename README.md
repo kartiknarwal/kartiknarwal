@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D16AQH7Bai6XEoY9w/profile-displaybackgroundimage-shrink_200_800/0/1656483462866?e=2147483647&v=beta&t=wNFjrfKENSwvd_eusWhA9XTLB8Ax5g56p17V8IxgoGo)]
+[![MasterHead](https://drive.google.com/file/d/1PPOdXyC7OJz_Xjztae64pq5w1RDS8V-M/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm kartik Narwal</h1>
 <h3 align="center">A dedicated full-stack developer with expertise in both frontend and backend technologies, passionate about creating secure, scalable web applications. A cybersecurity enthusiast from India.</h3>
 <img align="right" alt="Hacking" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
