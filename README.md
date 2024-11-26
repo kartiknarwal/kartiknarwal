@@ -1,17 +1,17 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4D16AQH7Bai6XEoY9w/profile-displaybackgroundimage-shrink_200_800/0/1656483462866?e=2147483647&v=beta&t=wNFjrfKENSwvd_eusWhA9XTLB8Ax5g56p17V8IxgoGo)]
 <h1 align="center">Hi 👋, I'm kartik Narwal</h1>
-<h3 align="center">A passionate and puntuate frontend and backend developer and a cyber Security Enthusiast from India🚩</h3>
+<h3 align="center">A passionate and puntuate frontend and backend developer and a cyber Security Enthusiast from India</h3>
 <img align="right" alt="Hacking" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=1024&imh=575&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartiknarwal&label=Profile%20views&color=0e75b6&style=flat" alt="kartiknarwal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kartiknarwal38" target="blank"><img src="https://img.shields.io/twitter/follow/@kartiknarwal38?logo=twitter&style=for-the-badge" alt="@kartiknarwal38" /></a> </p>
 
-- 🌱 I’m currently learning **ShellScripting,kotlin,dart**
+- 🌱 I’m currently learning kubernetes ,Ethical-hacking
 
-- 💬 Ask me about **html,css,javascript,Nodejs,Mysq**
+- 💬 Ask me about MondoDB,React,Express.js,Node.js,Data Structure and Alogorithm,MySql
 
-- 📫can Reach me at **kartiknarwal2085@gmail.com**
+- 📫can Reach me at kartiknarwal2085@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
