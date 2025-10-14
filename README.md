@@ -86,5 +86,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartiknarwal&show_icons=true&locale=en" alt="kartiknarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiknarwal&" alt="kartiknarwal" /></p>
-my github readme file 
-i want to updae this with my latest stack also include genAI,Clerk,Cloudinary and many other things 
