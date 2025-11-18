@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>DSA Made Easy & a 30-Day React Course Series<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br><br>Frontend animations, UI design, and React-based projects<br><br>🤝 I’m looking for help with<br><br>Better animation workflows (Framer Motion / GSAP) and modern design patterns<br><br>🌱 I’m currently learning<br><br>GenAI, Kubernetes, and deep-diving into scalable architectures<br><br>💬 Ask me about<br><br>React, DSA, system design basics, and building dev-friendly content<br><br>⚡ Fun fact<br><br>I break things on purpose — just to understand how they work 😄
+🔭 I’m currently working on : DSA Made Easy & a 30-Day React Course Series<br>🧑‍🤝‍🧑 I’m looking to collaborate on : Frontend animations, UI design, and React-based projects<br><br>🤝 I’m looking for help with<br><br>Better animation workflows (Framer Motion / GSAP) and modern design patterns<br><br>🌱 I’m currently learning<br><br>GenAI, Kubernetes, and deep-diving into scalable architectures<br><br>💬 Ask me about<br><br>React, DSA, system design basics, and building dev-friendly content<br><br>⚡ Fun fact<br><br>I break things on purpose — just to understand how they work 😄
 
 
 ## 🌐 Socials:
